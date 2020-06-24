@@ -1,0 +1,5 @@
+site_name: ClickHouse Docs Stub
+copyright: © 2016–2020 Yandex LLC
+theme:
+    name: null
+    custom_dir: theme
